@@ -9,6 +9,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/derogative404/boilerplate-npm.git"
+	},
+	"author": {
+		"name": "Sebastian Thomas"
 	}
 }
